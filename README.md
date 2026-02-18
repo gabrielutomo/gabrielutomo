@@ -41,7 +41,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 
 ---
 
-###  Contribution Graph (Pacman Edition)
+###  Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielutomo/gabrielutomo/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
