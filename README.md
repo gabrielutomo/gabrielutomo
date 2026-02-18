@@ -1,9 +1,7 @@
 # <p align="center">Hi there! 👋 I'm Gabriel Adetya Utomo</p>
 
 <p align="center">
-  <a href="https://github.com/gabrielutomo">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ### 👨‍💻 About Me
@@ -13,12 +11,20 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 
 ### 🔥 GitHub Streak & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielutomo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielutomo&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielutomo&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielutomo&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's Stats" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=tokyonight&hide_border=true" alt="Gabriel's Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielutomo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
