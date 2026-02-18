@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielutomo&show_icons=true&theme=dracula&hide_border=true" alt="Gabriel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=dracula&hide_border=true" alt="Gabriel's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielutomo&show_icons=true&theme=radical" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=radical" alt="Gabriel's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielutomo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielutomo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -51,15 +51,15 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ### 🎮 Contribution Graph (Pacman Style)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielutomo&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/gabrielutomo/gabrielutomo/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielutomo&theme=dracula" alt="Summary Cards" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielutomo&theme=dracula" alt="Wakatime" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielutomo&theme=radical" alt="Summary Cards" />
 </p>
