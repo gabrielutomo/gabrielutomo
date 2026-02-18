@@ -1,9 +1,5 @@
 # <p align="center">Hi there! I'm Gabriel Adetya Utomo</p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
 ###  About Me
 I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Informatics Engineering**. I'm passionate about building full-stack web applications, exploring machine learning, and crafting beautiful UI/UX experiences.
 
