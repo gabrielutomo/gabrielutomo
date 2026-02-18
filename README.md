@@ -1,15 +1,15 @@
-# <p align="center">Hi there! 👋 I'm Gabriel Adetya Utomo</p>
+# <p align="center">Hi there! I'm Gabriel Adetya Utomo</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-### 👨‍💻 About Me
+###  About Me
 I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Informatics Engineering**. I'm passionate about building full-stack web applications, exploring machine learning, and crafting beautiful UI/UX experiences.
 
 ---
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 <p align="center">
   <!-- Streak Stats (Working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=tokyonight&hide_border=true" alt="Gabriel's Streak" />
@@ -17,7 +17,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 <p align="center">
   <!-- Languages -->
@@ -45,7 +45,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 
 ---
 
-### 🎮 Contribution Graph (Pacman Edition)
+###  Contribution Graph (Pacman Edition)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielutomo/gabrielutomo/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
@@ -53,7 +53,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 
 ---
 
-### 📊 Activity Graph
+###  Activity Graph
 <p align="center">
   <!-- GitHub Activity Graph (Moved to bottom, dark theme) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielutomo&theme=react&area=true&hide_border=true" width="100%" alt="Activity Graph" />
