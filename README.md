@@ -1,8 +1,5 @@
-# <p align="center">Hi there! I'm Gabriel Adetya Utomo</p>
-
 <p align="center">
-  <b>Full Stack Developer · AI-Integrated Engineer · UI/UX Designer</b><br/>
-  <i>Building scalable web apps and AI-powered experiences from Bandar Lampung, Indonesia 🇮🇩</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:052e16,100:16a34a&height=200&section=header&text=Gabriel%20Adetya%20Utomo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=58&descSize=16&descFontColor=4ade80&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,7 +9,7 @@
   <a href="mailto:gabrielutomo33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Bandar%20Lampung-Indonesia-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bandar%20Lampung-Indonesia-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -117,7 +114,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielutomo/gabrielutomo/output/github-contribution-grid-snake.svg" alt="Pacman Animation" />
+  <img src="https://raw.githubusercontent.com/gabrielutomo/gabrielutomo/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -131,15 +128,19 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielutomo&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=gabrielutomo&label=Profile%20views&color=16a34a&style=flat" alt="Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=4ade80&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day+%F0%9F%98%8A" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" alt="Cat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:052e16,100:0a0a0a&height=100&section=footer" />
 </p>
