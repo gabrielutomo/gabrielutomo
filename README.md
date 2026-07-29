@@ -1,4 +1,4 @@
-# <p align="center">Hi there! I'm Gabriel Adetya Utomo 👋</p>
+# <p align="center">Hi there! I'm Gabriel Adetya Utomo</p>
 
 <p align="center">
   <b>Full Stack Developer · AI-Integrated Engineer · UI/UX Designer</b><br/>
@@ -137,7 +137,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day+%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day" alt="Typing SVG" />
 </p>
 
 <p align="center">
