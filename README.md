@@ -143,10 +143,3 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" alt="Cat" />
 </p>
-
-```
- /\_____/\
-(  o   o  )
-(  =^.^=  )   < thanks for stopping by!
- (--m-m--)
-```
