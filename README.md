@@ -122,7 +122,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gabrielutomo&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielutomo&theme=github-compact" width="100%" alt="Activity Graph" />
 </p>
 
 ---
