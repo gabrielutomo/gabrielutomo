@@ -62,7 +62,7 @@ Bridging engineering and design — crafting interfaces that are both technicall
 
 Integrating LLMs and AI APIs into real products — from intelligent chatbots to automated content workflows.
 
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -81,7 +81,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielutomo&theme=tokyonight&hide_border=true" alt="Gabriel's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielutomo&theme=tokyonight&hide_border=true" alt="Gabriel's Streak" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ I'm a **Computer Science student** at **IIB Darmajaya**, specializing in **Infor
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielutomo&theme=react&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielutomo&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
